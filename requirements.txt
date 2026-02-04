@@ -1,0 +1,2 @@
+# Requires: forgotten-unlikelihood
+# (Not available on PyPI)
